@@ -1,4 +1,4 @@
-# otus-java-2019-3-hw
+# otus-java-2019-03
 
 Студент:
 Yuriy Savchenko (Юрий Савченко)
